@@ -2,7 +2,7 @@
 
 An app for Creating an HTML page of a Team with options for a Manager, an Engineer, and an Intern. Here is a video walkthrough of the process: [Click Here](https://www.youtube.com/embed/Q2s80tO5js8)
 
-Here is another video using npm run test:
+Here is another video using npm run test: [Click Here](https://www.youtube.com/watch?v=2RJu7NPm4PI)
 
 
 ## User Story
