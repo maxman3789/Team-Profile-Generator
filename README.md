@@ -1,7 +1,6 @@
 # Team-Profile-Generator
 
-An app for Creating an HTML page of a Team with options for a Manager, an Engineer, and an Intern. Here is a video walkthrough of the process:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2s80tO5js8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+An app for Creating an HTML page of a Team with options for a Manager, an Engineer, and an Intern. Here is a video walkthrough of the process: [Click Here](https://www.youtube.com/embed/Q2s80tO5js8)
 
 Here is another video using npm run test:
 
