@@ -4,6 +4,9 @@ An app for Creating an HTML page of a Team with options for a Manager, an Engine
 
 Here is another video using npm run test: [Click Here](https://www.youtube.com/watch?v=2RJu7NPm4PI)
 
+The resulting HTML page looks like this:
+<img width="1269" alt="Screen Shot 2022-01-27 at 9 53 49 PM" src="https://user-images.githubusercontent.com/96030343/151494853-10ad0c71-3c72-4b24-ad4d-a597283e5f4a.png">
+
 
 ## User Story
     AS A manager
